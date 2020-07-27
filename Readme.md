@@ -1,4 +1,4 @@
-# CGPA CALCULATOR FOR MANIPAL UNIVERSITY JAIPUR(MUJ) (CSE/IT/CCE) 
+# CGPA CALCULATOR FOR MANIPAL UNIVERSITY JAIPUR  Engineering Students (CSE/IT/CCE)
 
 #### Right Now Only For 2016,2017,2018,2019 and 2020 Batches . 
 
@@ -6,9 +6,9 @@
 
 -  Will Be Rolling Out New Features Soon. 
 
-- Some Problems with 2019 and 2020 batches as I am not sure about the credits for 2nd and 3rd year .
+- Some Problems with 2019 and 2020 batches as I am not sure about the credits for 2nd and 3rd year . Working Fine If you want to calculate your cgpa till 1st year. Should work for IT Batches  . Not Sure about CSE/CCE as they are having diff credits for 2nd and 3rd year . If anyone can help me with this please raise an issue. 
 
--  Will Be Adding Support For Other Branches too . 
+-  Will Be Adding Support For Other Branches too .
 
 - Hope this helps you guys . No errors in your CGPA from now on 
 
