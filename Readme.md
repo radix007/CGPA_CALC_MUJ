@@ -16,7 +16,7 @@
 To Calculate Your CGPA :
 > cd CGPA_CALC_MUJ-master/
 
-> ./cgpa 
+> ./cgpa.out 
 
 
 
