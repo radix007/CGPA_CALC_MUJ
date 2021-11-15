@@ -1,24 +1,23 @@
-# CGPA CALCULATOR FOR MANIPAL UNIVERSITY JAIPUR  Engineering Students (CSE/IT/CCE)
+# **CGPA Calculator for CSE/IT/CCE students (Manipal University Jaipur)** ::
 
-#### Right Now Only For 2016,2017,2018,2019 and 2020 Batches . 
+- **Only for 2016, 2017, 2018, 2019, and 2020 batches**
+- Working on a java,python and a bash build
 
-- Soon Will Be Available in python,java & bash . Also will be making a website for this .
+- Hope this helps you guys. No errors while calculating your CGPA from now on.
 
--  Will Be Rolling Out New Features Soon. 
+> Some problems with the 2019 and 2020 batches as I am not sure about the credits for the 2nd and 3rd years. Working fine, if you want to calculate your CGPA for the first year. I'm not sure about CSE and CCE because they have different credits in the second and third years.
 
-- Some Problems with 2019 and 2020 batches as I am not sure about the credits for 2nd and 3rd year . Working Fine If you want to calculate your cgpa till 1st year. Should work for IT Batches  . Not Sure about CSE/CCE as they are having diff credits for 2nd and 3rd year . If anyone can help me with this please raise an issue. 
+### To calculate your CGPA ::
 
--  Will Be Adding Support For Other Branches too .
+```
+cd CGPA_CALC_MUJ/
+./cgpa.out
+```
 
-- Hope this helps you guys . No errors in your CGPA from now on 
+# **Calculator in action** ::
 
+![CGPA calculator in action](Media/cgpa_calc.png)
 
-To Calculate Your CGPA :
-> cd CGPA_CALC_MUJ-master/
+# Contributing ::
 
-> ./cgpa.out 
-
-
-
-## Pull Request Welcomed 
-
+**Please check out the [contributing.md](contributing.md) guide on how you can actively participate in the development of cgpa calculator.**
