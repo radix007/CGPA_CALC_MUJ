@@ -4,7 +4,7 @@
 
 **At this point you're waiting on me. I would be extremely happy if you write at least comments on your pull requests.**
 
-> Some things that will increase the chance that your pull request is accepted:
+> Some things that will increase the chance that your pull request is accepted ::
 
 - Write tests
 - Follow the style guide
