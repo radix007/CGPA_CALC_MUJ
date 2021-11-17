@@ -25,4 +25,4 @@ cd CGPA_CALC_MUJ/
 
 # License ![GitHub](https://img.shields.io/badge/license-GPL--3.0%20License%20-blue)
 
-This project is licensed under the GNU General Public License v3.0 - see the [License.md](https://github.com/radix007/CGPA_CALC_MUJ/blob/master/LICENSE) file for more details.
+This project is licensed under the GNU General Public License v3.0 - see the [License.md](https://github.com/radix007/CGPA_CALC_MUJ/blob/master/LICENSE) for more details.
